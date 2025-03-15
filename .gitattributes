@@ -1,2 +1,2 @@
-main/resources/static/js/* linguist-vendored
-main/resources/static/summernote/* linguist-vendored
+src/main/resources/static/js/* linguist-vendored
+src/main/resources/static/summernote/* linguist-vendored
